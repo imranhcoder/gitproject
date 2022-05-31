@@ -1,3 +1,4 @@
 this is text one feature = master
 This is secound line
 This is thard line
+logo alignment is center
